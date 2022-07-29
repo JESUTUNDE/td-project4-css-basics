@@ -1,0 +1,190 @@
+body {  padding: 0px 200px 0px 10px;
+        background-color: black;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        border-radius: 5px;
+        border-color: #F1F1F1;
+        border-style: none;
+        font-family: 'Times New Roman', Times, serif;    
+ }
+
+ .pixarea { background-color: white;
+            width: 100%;
+            padding-right: 30%;
+            height: 300px;
+ }
+.heading { background-color: #0078AA;
+           color: white; 
+           left: auto;
+           width: 130%; margin-left: auto; margin-right: auto;
+           text-align: center;
+           padding-bottom: 5px;
+           padding-top: 5px;
+}
+
+.span1 { width: 5%;
+        margin-right: 20px;
+        font-size: 20px;
+}
+
+.heading2 {width: 120px;
+            word-spacing: 10px;
+            margin-left: 300px;
+            font-size: 15px;         
+}
+
+.tundepix { border-radius: 10%;
+             width: 100px;
+             margin-left: auto;
+             margin-right: auto;
+             display: block;
+             padding-left: 350px;
+             padding-right: 350px;
+             padding-top: 15px;
+             padding-bottom: 1px;
+             height: 100px;
+}
+
+
+.name { width: 120%;
+        text-align: center;
+        font-size: large;
+        color: #0078AA;
+}
+
+.aboutme {width: 120%;
+          text-align: center;
+          font-size: small;
+          height: 5px;
+          padding-bottom: 5px;
+}
+
+.nigflag { height: 15px;
+}
+
+.passion { background-color: #0078AA;
+           display: flex;
+           font-size: small;
+           width: 130%;
+          padding-top: 70px;
+          padding-bottom: 5px;
+          color: white;  
+          margin-top: -20px;
+          margin-left: auto;
+          margin-right: auto;
+}
+
+.p1 {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: #0078AA;
+        text-align: justify;
+        margin-right: 20px;
+        margin-left: 25px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+}
+
+.p2 {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: #0078AA;
+        border-radius: 30px;
+        text-align: center;
+        margin-right: 20px;
+        margin-left: 25px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+}
+
+.offer {background-color: white;
+        margin-top: -5px;
+        width: 130%;
+        color: rgb(0, 105, 92);
+        margin-bottom: 10px;
+}
+
+.service { background-color: white;
+        margin-top: -20px;
+        width: 130%;
+        display: flex;
+}
+
+.data { 
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: gray;
+        border-radius: 30px;
+        text-align: center;
+        margin-right: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        color: white;
+}
+
+.web {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: gray;
+        border-radius: 30px;
+        text-align: center;
+        margin-right: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        color: white;
+}
+
+.fin {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: gray;
+        border-radius: 30px;
+        text-align: center;
+        margin-right: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        color: white;
+}
+
+.end {
+        background-color:#0078AA;
+        margin-top: -17px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        width: 130%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        color: white;        
+}
+
+.endimg {color: #0078AA;
+
+}
+
+.linkdin {height: 15px;
+}
+
+.face {height: 15px;
+}
+
+.twit {height: 15px;
+}
+
+.insta {height: 15px;
+}
