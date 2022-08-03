@@ -1,24 +1,26 @@
-body {  padding: 0px 200px 0px 10px;
+body {  
+        padding: 0px 0px 0px 0px;
         background-color: black;
         width: 50%;
         margin-left: auto;
         margin-right: auto;
         margin-bottom: auto;
-        border-radius: 5px;
         border-color: #F1F1F1;
         border-style: none;
-        font-family: 'Times New Roman', Times, serif;    
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
  }
 
  .pixarea { background-color: white;
-            width: 100%;
-            padding-right: 30%;
+            width: 90%;
+            padding-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             height: 300px;
  }
 .heading { background-color: #0078AA;
            color: white; 
            left: auto;
-           width: 130%; margin-left: auto; margin-right: auto;
+           width: 110%; margin-left: auto; margin-right: auto;
            text-align: center;
            padding-bottom: 5px;
            padding-top: 5px;
@@ -35,16 +37,18 @@ body {  padding: 0px 200px 0px 10px;
             font-size: 15px;         
 }
 
-.tundepix { border-radius: 10%;
+.tundepix { border-radius: 110%;
              width: 100px;
              margin-left: auto;
              margin-right: auto;
              display: block;
-             padding-left: 350px;
-             padding-right: 350px;
+             padding-left: 300px;
+             padding-right: 300px;
              padding-top: 15px;
              padding-bottom: 1px;
              height: 100px;
+             /* position: sticky; */
+             
 }
 
 
@@ -67,11 +71,11 @@ body {  padding: 0px 200px 0px 10px;
 .passion { background-color: #0078AA;
            display: flex;
            font-size: small;
-           width: 130%;
-          padding-top: 70px;
-          padding-bottom: 5px;
+           width: 110%;
+          padding-top: 50px;
+          padding-bottom: 50px;
           color: white;  
-          margin-top: -20px;
+          margin-top: -40px;
           margin-left: auto;
           margin-right: auto;
 }
@@ -103,52 +107,70 @@ body {  padding: 0px 200px 0px 10px;
         margin-bottom: 10px;
 }
 
-.offer {background-color: white;
-        margin-top: -5px;
-        width: 130%;
+.offer {
+        background-color: white;
+        margin-top: -50px;
+        width: 100%;
+        padding-left: 50px;
         color: rgb(0, 105, 92);
-        margin-bottom: 10px;
+        /* margin-bottom: 50px; */
+        
+        
+        
+        
+        
+        /* padding-left: auto; */
+        /* padding-top: 15px; */
+        /* padding-bottom: 15px; */
+        margin-left: auto;
+        
 }
 
-.service { background-color: white;
-        margin-top: -20px;
-        width: 130%;
+.service { 
+        background-color: white;
+        margin-top: -50px;
+        width: 110%;
         display: flex;
+        /* padding-left: 15px; */
+        /* padding-right: 15px; */
+        padding-top: 35px;
+        padding-bottom: 15px;
+        
 }
 
 .data { 
-        padding-top: 30px;
-        padding-bottom: 30px;
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-top: 25px;
+        /* padding-bottom: 10px; */
+        padding-left: 30px;
+        padding-right: 25px;
         background-color: gray;
         border-radius: 30px;
         text-align: center;
         margin-right: 20px;
-        margin-left: 25px;
-        margin-top: 20px;
-        margin-bottom: 50px;
+        margin-left: 35px;
+        margin-top: 10px;
+        margin-bottom: 100px;
         color: white;
 }
 
 .web {
-        padding-top: 30px;
-        padding-bottom: 30px;
+        padding-top: 25px;
+        /* padding-bottom: 10px; */
         padding-left: 20px;
         padding-right: 20px;
         background-color: gray;
         border-radius: 30px;
         text-align: center;
         margin-right: 20px;
-        margin-left: 25px;
-        margin-top: 20px;
-        margin-bottom: 50px;
+        margin-left: 35px;
+        margin-top: 10px;
+        margin-bottom: 100px;
         color: white;
 }
 
 .fin {
-        padding-top: 30px;
-        padding-bottom: 30px;
+        padding-top: 25px;
+        /* padding-bottom: 10px; */
         padding-left: 20px;
         padding-right: 20px;
         background-color: gray;
@@ -156,8 +178,8 @@ body {  padding: 0px 200px 0px 10px;
         text-align: center;
         margin-right: 20px;
         margin-left: 25px;
-        margin-top: 20px;
-        margin-bottom: 50px;
+        margin-top: 10px;
+        margin-bottom: 100px;
         color: white;
 }
 
@@ -167,7 +189,7 @@ body {  padding: 0px 200px 0px 10px;
         margin-left: auto;
         margin-right: auto;
         text-align: center;
-        width: 130%;
+        width: 110%;
         padding-top: 50px;
         padding-bottom: 50px;
         color: white;        
